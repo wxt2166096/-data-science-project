@@ -1,0 +1,34 @@
+# Wang Xiuting - Portfolio & Project Showcase
+
+## Personal Introduction
+Hello! My name is **Wang Xiuting**, currently pursuing graduate studies at **澳门大学**, enrolled in coursework including *CISC7204 Data Science and Data Visualization*. I specialize in data science, exploratory data analysis, statistical modeling, and creating compelling data visualizations. My primary technology stack includes Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy, and SQLite, developed within a Windows environment utilizing PyCharm, Jupyter Lab, Anaconda, and PowerShell.
+
+---
+
+## Technical Skills
+* **Programming Languages:** Python, SQL
+* **Data Science & Analysis:** Pandas, NumPy, Scikit-learn, SciPy, Statistical Modeling, Regression Analysis ($R^2$, MAE, RMSE)
+* **Data Visualization:** Matplotlib, Seaborn, Plotly, Folium, Principles of Visual Storytelling (referencing Cole Nussbaumer Knaflic and Alberto Cairo)
+* **Development Tools:** PyCharm, Jupyter Lab, Anaconda, PowerShell, Git, GitHub, `uv`, `venv`, `pip`
+
+---
+
+## Project Showcase
+
+### Project Title: CISC7204 Data Science and Data Visualization Labs
+* **Research Question:** How can exploratory data analysis, data cleaning pipelines, and statistical modeling techniques be systematically applied to uncover underlying trends, evaluate predictive regression performance, and communicate insights effectively?
+
+#### Visualization & Findings
+* **Approach:** Integrated structured data cleaning, statistical validation, and visual storytelling principles. Key visual evaluations focused on feature distributions, correlation heatmaps, and regression residuals ($R^2$, Mean Absolute Error, and Root Mean Squared Error metrics) to assess predictive accuracy.
+* **Summary Table:**
+
+| Analysis Module | Key Focus | Outcome / Validation |
+| :--- | :--- | :--- |
+| **Module 01 - Lab 01** | Data cleaning, parsing POS orders, and string compression algorithms | Validated robust string and numerical data pipelines |
+| **Module 01 - Lab 02** | Exploratory data visualization and statistical distribution mapping | Identified key feature correlations and reduced visual clutter |
+
+#### Project Repository
+* Access the source code and notebooks in the [-data-science-project](https://github.com/wxt2166096/-data-science-project) repository.
+
+#### Current Project Status
+* **Status:** Ongoing (Active development and coursework iterative expansions)
