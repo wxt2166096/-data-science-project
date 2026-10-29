@@ -1,4 +1,4 @@
-# Data Science Project: [Project Title]
+# Data Science Project: 
 
 ## The Problem or Research Question
 *State the core research question, hypothesis, or data science objective addressed in this project (e.g., predicting housing prices, analyzing categorical trends, or evaluating classification performance).*
